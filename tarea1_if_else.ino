@@ -14,7 +14,7 @@ int led3 = 10;
 int led4 = 9;
 int led5 = 8;
 int dt = 50;  //asignamos una variable de tiempo
-int Bot= A0;
+//int Bot= A0;
 
 void setup() {
   // put your setup code here, to run once:
