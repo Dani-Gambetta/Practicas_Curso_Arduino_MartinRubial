@@ -1,5 +1,5 @@
-int 13
+int 13 //variable
 
 void setup(
-    
+
 )
